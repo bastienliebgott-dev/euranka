@@ -6,7 +6,7 @@ Moni suomalainen etsii kumppania, jonka kanssa jakaa samat arvot ja tavoitteet: 
 
 ## Valitse palvelu, jossa muutkin ovat tosissaan
 
-Pikadeittisovelluksissa selataan kuvia, mutta harva kertoo, mitä elämältä haluaa. Jos etsit pitkää suhdetta, valitse palvelu, jossa profiilit ovat laajoja ja käyttäjät kertovat avoimesti arvoistaan, elämäntavoistaan ja perhetoiveistaan. Maksullinen jäsenyys karsii usein pois ne, jotka eivät ole tosissaan. Lisää vinkkejä löytyy oppaasta [vakavaan deittailuun Suomessa](https://parhaatdeitti.com/vakava-deittailu-suomi).
+Pikadeittisovelluksissa selataan kuvia, mutta harva kertoo, mitä elämältä haluaa. Jos etsit pitkää suhdetta, valitse palvelu, jossa profiilit ovat laajoja ja käyttäjät kertovat avoimesti arvoistaan, elämäntavoistaan ja perhetoiveistaan. Maksullinen jäsenyys karsii usein pois ne, jotka eivät ole tosissaan.
 
 ## Kerro arvoistasi heti alussa
 
@@ -26,8 +26,6 @@ Oikea kumppani löytyy harvoin sattumalta. Kun tiedät, mitä etsit, valitset pa
 
 **Image :** pariskunta (n. 40 v.) kävelee järven rannalla syksyllä — alt : « Pariskunta kävelee järven rannalla syksyllä »
 
-**Liens (dofollow) :**
-- Suomen parhaat deittipalvelut → https://parhaatdeitti.com/
-- vakavaan deittailuun Suomessa → https://parhaatdeitti.com/vakava-deittailu-suomi
+**Lien (dofollow) :** Suomen parhaat deittipalvelut → https://parhaatdeitti.com/
 
-**Special remarks to the Publisher :** Please keep both links dofollow as placed. Image provided. Thank you!
+**Special remarks to the Publisher :** Please keep the link dofollow as placed. Image provided. Thank you!
